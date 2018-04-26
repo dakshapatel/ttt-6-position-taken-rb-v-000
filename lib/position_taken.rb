@@ -1,6 +1,6 @@
 # code your #position_taken? method here!le
 board = [ "", "", "", "", "", "", "", "", ""]
 
-position_taken?(board, index)
+def position_taken?(board, index)
 
-end 
+end
